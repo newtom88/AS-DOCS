@@ -5,7 +5,7 @@
 ## 👥 | Rôles
 
 * [🌀 | Protagoniste](or-roles/or-protagoniste/README.md)
-  * [• Aang](or-roles/or-protagoniste/aang.md)
+  * [🌀 • Aang](or-roles/or-protagoniste/aang.md)
   * [• Ace](or-roles/or-protagoniste/ace.md)
   * [• Akame](or-roles/or-protagoniste/akame.md)
   * [• Asta](or-roles/or-protagoniste/asta.md)
@@ -93,7 +93,7 @@
   * [• Beerus](or-roles/or-divergeants/beerus.md)
   * [• Estarossa](or-roles/or-divergeants/estarossa.md)
   * [• Jack Sparrow](or-roles/or-divergeants/jack-sparrow.md)
-  * [• Kurumi](or-roles/or-divergeants/kurumi.md)
+  * [⚡ • Kurumi](or-roles/or-divergeants/kurumi.md)
   * [• Law](or-roles/or-divergeants/law.md)
   * [• Nagi](or-roles/or-divergeants/nagi.md)
   * [• Obito](or-roles/or-divergeants/obito.md)
