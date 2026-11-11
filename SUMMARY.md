@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Blank](README.md)
+* [📚 | Présentation](README.md)
+* [Blank](<README (1).md>)
 
 ## 👥 | Rôles
 
@@ -11,7 +12,7 @@
   * [• Asta](or-roles/or-protagoniste/asta.md)
   * [• Benimaru](or-roles/or-protagoniste/benimaru.md)
   * [• Cloud](or-roles/or-protagoniste/cloud.md)
-  * [• David](or-roles/or-protagoniste/david.md)
+  * [🌀 • David](or-roles/or-protagoniste/david.md)
   * [• Deku](or-roles/or-protagoniste/deku.md)
   * [• Edward Elric](or-roles/or-protagoniste/aki.md)
   * [• Escanor](or-roles/or-protagoniste/escanor.md)
@@ -52,7 +53,7 @@
   * [• Thorfinn](or-roles/or-protagoniste/thorfinn.md)
   * [• Vi](or-roles/or-protagoniste/vi.md)
   * [• Yami](or-roles/or-protagoniste/yami.md)
-  * [• Yuji](or-roles/or-protagoniste/yuji.md)
+  * [🌀 • Yuji](or-roles/or-protagoniste/yuji.md)
 * [👺 | Antagoniste](or-roles/or-antagoniste/README.md)
   * [• Adam Smasher](or-roles/or-antagoniste/adam-smasher.md)
   * [• All For One](or-roles/or-antagoniste/all-for-one.md)
@@ -76,7 +77,7 @@
   * [• Kira Yoshigake](or-roles/or-antagoniste/kira-yoshigake.md)
   * [• Mahito](or-roles/or-antagoniste/mahito.md)
   * [• Makima](or-roles/or-antagoniste/makima.md)
-  * [• Meruem](or-roles/or-antagoniste/meruem.md)
+  * [👺 • Meruem](or-roles/or-antagoniste/meruem.md)
   * [• Muzan](or-roles/or-antagoniste/muzan.md)
   * [• Overhaul](or-roles/or-antagoniste/overhaul.md)
   * [• Robotnik](or-roles/or-antagoniste/robotnik.md)
