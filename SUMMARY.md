@@ -7,8 +7,8 @@
 
 * [🌀 | Protagoniste](or-roles/or-protagoniste/README.md)
   * [🌀 • Aang](or-roles/or-protagoniste/aang.md)
-  * [• Ace](or-roles/or-protagoniste/ace.md)
-  * [• Akame](or-roles/or-protagoniste/akame.md)
+  * [🌀 • Ace](or-roles/or-protagoniste/ace.md)
+  * [• Akame - AS](or-roles/or-protagoniste/akame-as.md)
   * [• Asta](or-roles/or-protagoniste/asta.md)
   * [• Benimaru](or-roles/or-protagoniste/benimaru.md)
   * [• Cloud](or-roles/or-protagoniste/cloud.md)
