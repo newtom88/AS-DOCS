@@ -4,40 +4,26 @@ description: Seishiro Nagi - Blue Lock
 
 # • Nagi
 
-
-
 {% hint style="info" %}
 **»&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
 
 ▸ _Effets à disposition_
 
-> **xxx** dispose de l'effet **xxx**.
-
-***
-
-▸ _Objets à disposition_
-
-> **xxx** dispose d'une **xxx** à l'annonce des rôles.
-
-***
-
-▸ _xxx_
-
-> **xxx**
+> **Nagi** dispose de l'effet **Vitesse I** et **noFall**.
 >
-> <mark style="color:blue;">**➲**</mark> xxx
+> **Nagi** dispose d'une **régénération passive** de **1❤**/**5sec** sans avoir reçu de coup dans les **30 dernières secondes** qui passe à **1❤**/**15sec** en combat.
 
 ***
 
-▸ _Commandes_ - `/xxx`
+▸ _Amorti_
 
-> **xxx**
+> **Nagi** à **15%** de chance d'esquiver une flèche ou un autre projectile ce qui lui donne **1❤** d'**absorption**.
 {% endhint %}
 
 {% hint style="success" %}
 **»&#x20;**<mark style="color:green;">**CAPACITÉS PASSIVES**</mark>
 
-▸ _xxx_ - `Clic-Droit` - _Cooldown: 0mn_
+▸ _Fake Volley Shot_ - `Clic-Droit` - _Cooldown: 0mn_
 
 > **xxx**
 
