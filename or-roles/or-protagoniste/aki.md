@@ -69,3 +69,5 @@ description: Edward Elric - Fullmetal Alchemist
 >
 > <mark style="color:green;">**➲**</mark> Pour le reste de la partie, <mark style="color:green;">**Edward Elric**</mark> transmute **sans cercle** : sa jauge de **Matière** passe à **100** maximum et l'ensemble de ses gains de **Matière** sont **doublés**.
 {% endhint %}
+
+<figure><img src="https://media1.tenor.com/m/1tB0DtH90_QAAAAC/edward-elric-fmab.gif" alt=""><figcaption><p><mark style="color:green;"><strong>Edward Elric</strong></mark> - <strong>Fullmetal Alchemist</strong></p></figcaption></figure>
