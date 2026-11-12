@@ -14,7 +14,7 @@
   * [• Cloud](or-roles/or-protagoniste/cloud.md)
   * [🌀 • David](or-roles/or-protagoniste/david.md)
   * [• Deku](or-roles/or-protagoniste/deku.md)
-  * [• Edward Elric](or-roles/or-protagoniste/aki.md)
+  * [🌀 • Edward Elric](or-roles/or-protagoniste/aki.md)
   * [• Escanor](or-roles/or-protagoniste/escanor.md)
   * [• Frieren](or-roles/or-protagoniste/frieren.md)
   * [• Furina](or-roles/or-protagoniste/furina.md)
