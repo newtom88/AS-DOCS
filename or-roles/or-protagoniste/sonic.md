@@ -37,7 +37,7 @@ description: Sonic - Sonic the Hedgedog
 >
 > <mark style="color:blue;">**➲**</mark>**&#x20;Chaos Emerald Blanche** : Le joueur possédant cette **émeraude** reçoit <mark style="color:yellow;">**6% de Résistance**</mark> supplémentaires et en dessous de **20%** **de sa vie** passera à **18%**.<br>
 >
-> Les joueurs ne peuvent pas disposer de plus d'une **émeraude** à l'exception de <mark style="color:green;">**Sonic**</mark>.
+> Les joueurs ne peuvent pas disposer de plus d'une **émeraude** à l'exception de <mark style="color:green;">**Sonic**</mark> et de <mark style="color:red;">**Robotnik**</mark>, qui peut également **voler** les **émeraudes** (_voir <mark style="color:red;">**Robotnik**</mark>_).
 {% endhint %}
 
 {% hint style="success" %}

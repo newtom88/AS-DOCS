@@ -21,6 +21,7 @@ Lorsque <mark style="color:orange;">**Denji**</mark> élimine un joueur, le **r�
 
 * Les **Triforces** de <mark style="color:green;">**Link**</mark> sont retirées de leurs porteurs ainsi que leurs bonus.
 * Les **Émeraudes du Chaos** de <mark style="color:green;">**Sonic**</mark> disparaissent ainsi que l'ensemble de leurs bonus (_dont les <mark style="color:red;">**2❤**</mark> de l'émeraude **Cyan** et la seconde vie de l'émeraude **Verte**_).
+* Les **Émeraudes** volées par <mark style="color:red;">**Robotnik**</mark> reviennent à leurs anciens porteurs.
 * Les Alters volés par <mark style="color:red;">**All For One**</mark> reviennent à leurs propriétaires et les Alters offerts via "Don d'Alter" disparaissent.
 {% endhint %}
 
@@ -33,7 +34,8 @@ Lorsque <mark style="color:orange;">**Denji**</mark> élimine un joueur, le **r�
 * Les **clones** du "**Territoire Mesmerizer**" de <mark style="color:purple;">**Kasane Teto**</mark> et la **boule disco** de <mark style="color:purple;">**Hatsune Miku**</mark>.
 * Les **murs**, **piques** et **cages** d'<mark style="color:green;">**Edward Elric**</mark>.
 * Le "**Dôme de Boue**" d'<mark style="color:green;">**Aang**</mark>.
-* Les **zones** encore actives : "**Bourbier**" et "**Déluge**" de <mark style="color:yellow;">**Rudeus**</mark>, "**Toile Géante**" de <mark style="color:green;">**Spider-Man**</mark>, la **scène** de <mark style="color:green;">**Furina**</mark>, le **cercle de flammes** d'<mark style="color:green;">**Ace**</mark>, la "Tempête de Soie" de <mark style="color:purple;">Hornet</mark>.
+* Les **zones** encore actives : "**Bourbier**" et "**Déluge**" de <mark style="color:yellow;">**Rudeus**</mark>, "**Toile Géante**" de <mark style="color:green;">**Spider-Man**</mark>, la **scène** de <mark style="color:green;">**Furina**</mark>, le **cercle de flammes** d'<mark style="color:green;">**Ace**</mark>, la "Tempête de Soie" de <mark style="color:purple;">Hornet</mark>, le "**Sceau d'Alchimie**" de <mark style="color:red;">**Father**</mark>.
+* La "**Nuit Éternelle**" d'<mark style="color:orange;">**Herobrine**</mark> prend fin : le cycle **jour/nuit** reprend normalement.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -48,12 +50,13 @@ Lorsque <mark style="color:orange;">**Denji**</mark> élimine un joueur, le **r�
 {% hint style="danger" %}
 → **EFFETS DE MORT ANNULÉS**
 
-* Les passifs permettant d'éviter la mort ne s'appliquent **pas** : "**Immortel**" de <mark style="color:red;">**Zelef**</mark>, "**Mille Fragments**" de <mark style="color:red;">**Muzan**</mark>, "**Yud Aleph**" de <mark style="color:yellow;">**Kurumi**</mark>.
+* Les passifs permettant d'éviter la mort ne s'appliquent **pas** : "**Immortel**" de <mark style="color:red;">**Zelef**</mark>, "**Mille Fragments**" de <mark style="color:red;">**Muzan**</mark>, "**Yud Aleph**" de <mark style="color:yellow;">**Kurumi**</mark>, "**Survie**" de <mark style="color:red;">**Father**</mark>, "**Mort Debout**" de <mark style="color:orange;">**Barbe Blanche**</mark>.
 * <mark style="color:green;">**Yuji**</mark> n'obtient pas "**Dissection**" et "**Lacération**" si <mark style="color:orange;">**Sukuna**</mark> est éliminé par <mark style="color:orange;">**Denji**</mark>.
 * <mark style="color:purple;">**Hatsune Miku**</mark> et <mark style="color:purple;">**Kasane Teto**</mark> n'obtiennent pas leurs bonus de mort si leur partenaire est éliminée par <mark style="color:orange;">**Denji**</mark>.
 * Le porteur de la **Triforce de la Sagesse** et de l'émeraude **Jaune** ne reçoivent ni l'identité, ni les coordonnées.
 * Le <mark style="color:orange;">**Loup-Garou Blanc**</mark> n'obtient pas de <mark style="color:red;">**½❤**</mark> si l'<mark style="color:red;">**Antagoniste**</mark> est éliminé par <mark style="color:orange;">**Denji**</mark>.
-* <mark style="color:orange;">**Yhwach**</mark> n'obtient pas d'**Âme** pour un joueur éliminé par <mark style="color:orange;">**Denji**</mark>.
-* <mark style="color:purple;">Le Chevalier</mark> et <mark style="color:purple;">Hornet</mark> n'obtiennent pas l'héritage de "Fratrie du Vide" si leur partenaire est éliminé par <mark style="color:orange;">Denji</mark>.
+* <mark style="color:orange;">**Yhwach**</mark> et <mark style="color:red;">**Father**</mark> n'obtiennent pas d'**Âme** pour un joueur éliminé par <mark style="color:orange;">**Denji**</mark>.
+* <mark style="color:purple;">**Le Chevalier**</mark> et <mark style="color:purple;">**Hornet**</mark> n'obtiennent pas l'héritage de "Fratrie du Vide" si leur partenaire est éliminé par <mark style="color:orange;">**Denji**</mark>.
 * Si <mark style="color:green;">**Luke**</mark> est éliminé par <mark style="color:orange;">**Denji**</mark>, <mark style="color:red;">**Dark Vador**</mark> n'obtient pas de <mark style="color:red;">**Force I**</mark> et ne peut plus redevenir Anakin.
+* Si <mark style="color:green;">**Sonic**</mark> est éliminé par <mark style="color:orange;">**Denji**</mark>, <mark style="color:red;">**Robotnik**</mark> ne récupère pas la **7ème émeraude**.
 {% endhint %}
