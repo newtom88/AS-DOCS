@@ -11,7 +11,7 @@ description: 'Link - Zelda : Ocarina of Time'
 
 > Dans la partie, un total de **3 Triforces** seront distribué à un joueur pour chaque camp.<br>
 >
-> <mark style="color:blue;">**➲**</mark>**&#x20;Triforce du Force** : Cette **Triforce** est attribuée à un joueur <mark style="color:red;">**Antagoniste**</mark> aléatoire. Ce dernier obtient aléatoirement un bonus entre : <mark style="color:red;">**5% de Force**</mark>, <mark style="color:blue;">**5% de Vitesse**</mark> ou <mark style="color:yellow;">**5% de Résistance**</mark>.
+> <mark style="color:blue;">**➲**</mark>**&#x20;Triforce du Force** : Cette **Triforce** est attribuée à <mark style="color:red;">**Ganondorf**</mark> s'il est présent dans la partie, sinon à un joueur <mark style="color:red;">**Antagoniste**</mark> aléatoire. Ce dernier obtient aléatoirement un bonus entre : <mark style="color:red;">**5% de Force**</mark>, <mark style="color:blue;">**5% de Vitesse**</mark> ou <mark style="color:yellow;">**5% de Résistance**</mark>.
 >
 > <mark style="color:blue;">**➲**</mark>**&#x20;Triforce du Sagesse** : Cette **Triforce** est attribuée à un joueur <mark style="color:yellow;">**Divergeant**</mark> aléatoire.\
 > Ce dernier obtient alors la capacité lorsqu'un joueur meurt, de recevoir l'identité et les coordonnées du tueur.
