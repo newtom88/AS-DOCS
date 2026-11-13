@@ -32,7 +32,7 @@ Lorsque <mark style="color:orange;">**Denji**</mark> élimine un joueur, le **r�
 * Les **clones** du "**Territoire Mesmerizer**" de <mark style="color:purple;">**Kasane Teto**</mark> et la **boule disco** de <mark style="color:purple;">**Hatsune Miku**</mark>.
 * Les **murs**, **piques** et **cages** d'<mark style="color:green;">**Edward Elric**</mark>.
 * Le "**Dôme de Boue**" d'<mark style="color:green;">**Aang**</mark>.
-* Les **zones** encore actives : "**Bourbier**" et "**Déluge**" de <mark style="color:yellow;">**Rudeus**</mark>, "**Toile Géante**" de <mark style="color:green;">**Spider-Man**</mark>, la **scène** de <mark style="color:green;">**Furina**</mark>, le **cercle de flammes** d'<mark style="color:green;">**Ace**</mark>.
+* Les **zones** encore actives : "**Bourbier**" et "**Déluge**" de <mark style="color:yellow;">**Rudeus**</mark>, "**Toile Géante**" de <mark style="color:green;">**Spider-Man**</mark>, la **scène** de <mark style="color:green;">**Furina**</mark>, le **cercle de flammes** d'<mark style="color:green;">**Ace**</mark>, la "Tempête de Soie" de <mark style="color:purple;">Hornet</mark>.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -53,4 +53,5 @@ Lorsque <mark style="color:orange;">**Denji**</mark> élimine un joueur, le **r�
 * Le porteur de la **Triforce de la Sagesse** et de l'émeraude **Jaune** ne reçoivent ni l'identité, ni les coordonnées.
 * Le <mark style="color:orange;">**Loup-Garou Blanc**</mark> n'obtient pas de <mark style="color:red;">**½❤**</mark> si l'<mark style="color:red;">**Antagoniste**</mark> est éliminé par <mark style="color:orange;">**Denji**</mark>.
 * <mark style="color:orange;">**Yhwach**</mark> n'obtient pas d'**Âme** pour un joueur éliminé par <mark style="color:orange;">**Denji**</mark>.
+* <mark style="color:purple;">Le Chevalier</mark> et <mark style="color:purple;">Hornet</mark> n'obtiennent pas l'héritage de "Fratrie du Vide" si leur partenaire est éliminé par <mark style="color:orange;">Denji</mark>.
 {% endhint %}
