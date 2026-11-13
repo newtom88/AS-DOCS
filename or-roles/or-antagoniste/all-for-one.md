@@ -9,7 +9,7 @@ description: All For One - My Hero Academia
 
 ▸ _Effets à disposition_
 
-> <mark style="color:red;">**All For One**</mark> dispose de <mark style="color:red;">**10% de Force**</mark> et de <mark style="color:yellow;">**10% de Résistance**</mark>.
+> <mark style="color:red;">**All For One**</mark> dispose de **10%** de <mark style="color:red;">**Force**</mark> et de **10%** de <mark style="color:yellow;">**Résistance**</mark>.
 
 ***
 
@@ -19,7 +19,7 @@ description: All For One - My Hero Academia
 >
 > <mark style="color:blue;">**➲**</mark> Un **Alter volé** : le joueur peut l'utiliser jusqu'à la fin de sa durée.
 >
-> <mark style="color:blue;">**➲**</mark> Un **Alter mineur** pendant **10mn** : <mark style="color:red;">**10% de Force**</mark>, <mark style="color:blue;">**10% de Vitesse**</mark> ou une <mark style="color:pink;">**régénération passive**</mark> de <mark style="color:red;">**½❤**</mark>/**10sec**.<br>
+> <mark style="color:blue;">**➲**</mark> Un **Alter mineur** pendant **10mn** : **10%** de <mark style="color:red;">**Force**</mark>, **10%** de <mark style="color:blue;">**Vitesse**</mark> ou une <mark style="color:pink;">**régénération passive**</mark> de <mark style="color:red;">**½❤**</mark>/**10sec**.<br>
 >
 > Via la commande `/as reprendre <joueur>`, <mark style="color:red;">**All For One**</mark> peut **reprendre** l'**Alter** offert à tout moment et en bénéficie pour la durée restante.
 {% endhint %}
