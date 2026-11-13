@@ -2,50 +2,52 @@
 description: Askeladd - Vinland Saga
 ---
 
-# • Askeladd
-
-
+# ⚡ • Askeladd
 
 {% hint style="info" %}
 **»&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
 
 ▸ _Effets à disposition_
 
-> **xxx** dispose de l'effet **xxx**.
+> <mark style="color:yellow;">**Askeladd**</mark> dispose de l'effet <mark style="color:blue;">**Vitesse I**</mark>.
 
 ***
 
-▸ _Objets à disposition_
+▸ _Masque du Pillard_
 
-> **xxx** dispose d'une **xxx** à l'annonce des rôles.
+> Les rôles à **information** voient <mark style="color:yellow;">**Askeladd**</mark> comme un rôle appartenant au camp des <mark style="color:red;">**Antagonistes**</mark>.
 
 ***
 
-▸ _xxx_
+▸ _Coup Bas_
 
-> **xxx**
+> En frappant un joueur disposant de moins de **30%** de sa vie, <mark style="color:yellow;">**Askeladd**</mark> dispose de **15%** de chance de lui jeter du **sable** aux yeux, lui infligeant l'effet <mark style="color:purple;">**Cécité**</mark> pendant **2sec**. _Cooldown: 30sec/joueur_
+
+***
+
+▸ _Lecture du Combat_
+
+> Lorsqu'un même joueur frappe <mark style="color:yellow;">**Askeladd**</mark> **3 fois** d'affilée, le prochain coup d'<mark style="color:yellow;">**Askeladd**</mark> sur ce joueur inflige <mark style="color:red;">**1❤**</mark> de dégâts supplémentaires. _Cooldown: 20sec_
+
+***
+
+▸ _Héritier d'Artorius_ - `/as artorius` - _1x/partie_
+
+> <mark style="color:yellow;">**Askeladd**</mark> révèle sa **lignée** : son **pseudonyme** et son **rôle** sont annoncés à l'ensemble des joueurs.
 >
-> <mark style="color:blue;">**➲**</mark> xxx
-
-***
-
-▸ _Commandes_ - `/xxx`
-
-> **xxx**
+> <mark style="color:blue;">**➲**</mark> En contrepartie, il obtient de façon **permanente** l'effet <mark style="color:red;">**Force I**</mark>, <mark style="color:yellow;">**10% de Résistance**</mark> et <mark style="color:red;">**2❤**</mark> supplémentaires. La chance de "**Coup Bas**" passe à **30%**.
 {% endhint %}
 
 {% hint style="success" %}
-**»&#x20;**<mark style="color:green;">**CAPACITÉS PASSIVES**</mark>
+**»&#x20;**<mark style="color:green;">**CAPACITÉS ACTIVES**</mark>
 
-▸ _xxx_ - `Clic-Droit` - _Cooldown: 0mn_
+▸ _Feinte_ - `Clic-Droit` - _Cooldown: 4mn_
 
-> **xxx**
+> Pendant **5sec**, le prochain coup reçu par <mark style="color:yellow;">**Askeladd**</mark> est **esquivé** et il **contre-attaque** immédiatement, infligeant <mark style="color:red;">**1.5❤**</mark> de dégâts au joueur.
 
 ***
 
-▸ _xxx_ - `Clic-Droit` - _Cooldown: 0mn & 2x/partie_
+▸ _Embuscade_ - `Clic-Droit` - _Cooldown: 7mn_
 
-> **xxx**
->
-> <mark style="color:green;">**➲**</mark> xxx
+> <mark style="color:yellow;">**Askeladd**</mark> pose un **piège** invisible au point visé dans un rayon de **10 blocs**. Le premier joueur ennemi marchant dessus est **immobilisé** pendant **2sec** puis reçoit l'effet <mark style="color:purple;">**Lenteur II**</mark> pendant **5sec**. <mark style="color:yellow;">**Askeladd**</mark> reçoit alors sa **position**.
 {% endhint %}
