@@ -52,4 +52,5 @@ Lorsque <mark style="color:orange;">**Denji**</mark> élimine un joueur, le **r�
 * <mark style="color:purple;">**Hatsune Miku**</mark> et <mark style="color:purple;">**Kasane Teto**</mark> n'obtiennent pas leurs bonus de mort si leur partenaire est éliminée par <mark style="color:orange;">**Denji**</mark>.
 * Le porteur de la **Triforce de la Sagesse** et de l'émeraude **Jaune** ne reçoivent ni l'identité, ni les coordonnées.
 * Le <mark style="color:orange;">**Loup-Garou Blanc**</mark> n'obtient pas de <mark style="color:red;">**½❤**</mark> si l'<mark style="color:red;">**Antagoniste**</mark> est éliminé par <mark style="color:orange;">**Denji**</mark>.
+* <mark style="color:orange;">**Yhwach**</mark> n'obtient pas d'**Âme** pour un joueur éliminé par <mark style="color:orange;">**Denji**</mark>.
 {% endhint %}

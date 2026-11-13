@@ -123,7 +123,7 @@
   * [• Sukuna](or-roles/or-solo/sukuna.md)
   * [• Sun Wukong](or-roles/or-solo/sun-wukong.md)
   * [• Thanos](or-roles/or-solo/thanos.md)
-  * [• Yhwach](or-roles/or-solo/yhwach.md)
+  * [🔶 • Yhwach](or-roles/or-solo/yhwach.md)
   * [🔶 • Yoriichi](or-roles/or-solo/yoriichi.md)
 * [🔮 | Duo](or-roles/or-duo/README.md)
   * [🔮 | Vocaloïd](or-roles/or-duo/vocaloid/README.md)
