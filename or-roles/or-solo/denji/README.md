@@ -2,7 +2,7 @@
 description: Denji - Chainsaw Man
 ---
 
-# • Denji
+# 🔶 • Denji
 
 {% hint style="info" %}
 **»&#x20;**<mark style="color:blue;">**CAPACITÉS PASSIVES**</mark>
