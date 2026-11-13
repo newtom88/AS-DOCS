@@ -15,6 +15,18 @@ description: Kibutsuji Muzan - Demon Slayer
 
 ***
 
+▸ _Démons_
+
+> Les joueurs transformés par "**Sang de Muzan**" perdent leur **rôle** et deviennent des **Démons** : leur **pseudonyme** est remplacé par "**Démon**".<br>
+>
+> <mark style="color:blue;">**➲**</mark> Durant la **nuit**, les **Démons** obtiennent l'effet <mark style="color:red;">**Force I**</mark>.
+>
+> <mark style="color:blue;">**➲**</mark> Dans un rayon de **15 blocs** de <mark style="color:red;">**Muzan**</mark>, les **Démons** se régénèrent de <mark style="color:red;">**½❤**</mark>/**10sec**.
+>
+> <mark style="color:blue;">**➲**</mark> À la mort de <mark style="color:red;">**Muzan**</mark>, l'ensemble des **Démons** meurent.
+
+***
+
 ▸ _Malédiction_ - `/as demons`
 
 > <mark style="color:red;">**Muzan**</mark> obtient les **coordonnées** de l'ensemble de ses **Démons**.
@@ -43,7 +55,7 @@ description: Kibutsuji Muzan - Demon Slayer
 >
 > <mark style="color:green;">**➲**</mark> Si le joueur a moins de **25%** de sa vie, la conversion dispose de **70%** de chance de réussir.<br>
 >
-> En cas de **réussite**, le joueur devient un **Démon** : il rejoint le camp des <mark style="color:red;">**Antagonistes**</mark> en conservant son rôle.
+> En cas de **réussite**, le joueur devient un **Démon** (_voir "**Démons**"_) et rejoint le camp des <mark style="color:red;">**Antagonistes**</mark>.
 >
 > En cas d'**échec**, le joueur reçoit l'effet <mark style="color:purple;">**Poison II**</mark> pendant **5sec** et le **cooldown** de la capacité est réduit de moitié.
 >
