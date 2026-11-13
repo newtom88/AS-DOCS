@@ -60,7 +60,7 @@
   * [• Akainu](or-roles/or-antagoniste/akainu.md)
   * [👺 • Bowser](or-roles/or-antagoniste/bowser.md)
   * [• Dabi](or-roles/or-antagoniste/dabi.md)
-  * [• Dark Vador](or-roles/or-antagoniste/dark-vador.md)
+  * [👺 • Dark Vador](or-roles/or-antagoniste/dark-vador.md)
   * [• Dio](or-roles/or-antagoniste/dio.md)
   * [• Eto](or-roles/or-antagoniste/eto.md)
   * [👺 • Evil Morty](or-roles/or-antagoniste/evil-morty.md)
