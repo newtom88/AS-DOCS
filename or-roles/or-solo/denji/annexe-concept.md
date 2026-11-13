@@ -21,6 +21,7 @@ Lorsque <mark style="color:orange;">**Denji**</mark> élimine un joueur, le **r�
 
 * Les **Triforces** de <mark style="color:green;">**Link**</mark> sont retirées de leurs porteurs ainsi que leurs bonus.
 * Les **Émeraudes du Chaos** de <mark style="color:green;">**Sonic**</mark> disparaissent ainsi que l'ensemble de leurs bonus (_dont les <mark style="color:red;">**2❤**</mark> de l'émeraude **Cyan** et la seconde vie de l'émeraude **Verte**_).
+* Les Alters volés par <mark style="color:red;">All For One</mark> reviennent à leurs propriétaires et les Alters offerts via "Don d'Alter" disparaissent.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -54,4 +55,5 @@ Lorsque <mark style="color:orange;">**Denji**</mark> élimine un joueur, le **r�
 * Le <mark style="color:orange;">**Loup-Garou Blanc**</mark> n'obtient pas de <mark style="color:red;">**½❤**</mark> si l'<mark style="color:red;">**Antagoniste**</mark> est éliminé par <mark style="color:orange;">**Denji**</mark>.
 * <mark style="color:orange;">**Yhwach**</mark> n'obtient pas d'**Âme** pour un joueur éliminé par <mark style="color:orange;">**Denji**</mark>.
 * <mark style="color:purple;">Le Chevalier</mark> et <mark style="color:purple;">Hornet</mark> n'obtiennent pas l'héritage de "Fratrie du Vide" si leur partenaire est éliminé par <mark style="color:orange;">Denji</mark>.
+* Si <mark style="color:green;">Luke</mark> est éliminé par <mark style="color:orange;">Denji</mark>, <mark style="color:red;">Dark Vador</mark> n'obtient pas de <mark style="color:red;">Force I</mark> et ne peut plus redevenir Anakin.
 {% endhint %}
