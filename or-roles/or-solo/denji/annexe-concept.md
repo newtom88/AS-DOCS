@@ -14,6 +14,8 @@ Lorsque <mark style="color:orange;">**Denji**</mark> élimine un joueur, le **r�
 * L'**Âme** de <mark style="color:red;">**Mahito**</mark> : l'ensemble des joueurs reviennent à **100%** d'**âme** et les malus de "**Transfiguration Oisive**" disparaissent.
 * L'**éveil E.N.D.** de <mark style="color:red;">**Zelef**</mark> : si <mark style="color:green;">**Natsu**</mark> a été éveillé par le "**Livre d'E.N.D.**", il redevient <mark style="color:green;">**Protagoniste**</mark> et perd les bonus d'**E.N.D.**
 * La **Corruption** d'<mark style="color:orange;">**Akuma**</mark> : le **Satsui no Hado** ajouté à <mark style="color:green;">**Ryu**</mark> est retiré. Si <mark style="color:green;">**Ryu**</mark> est déjà <mark style="color:orange;">**Evil Ryu**</mark>, il le reste.
+* Les **Titans** du "**Cri**" de <mark style="color:yellow;">**Sieg**</mark> redeviennent immédiatement des joueurs et récupèrent leurs **pouvoirs** et leurs **effets**.
+* Le "**HACK**" de <mark style="color:yellow;">**Sans**</mark> est annulé : les **ROUTES** inversées reviennent à la normale.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -34,7 +36,10 @@ Lorsque <mark style="color:orange;">**Denji**</mark> élimine un joueur, le **r�
 * Les **clones** du "**Territoire Mesmerizer**" de <mark style="color:purple;">**Kasane Teto**</mark> et la **boule disco** de <mark style="color:purple;">**Hatsune Miku**</mark>.
 * Les **murs**, **piques** et **cages** d'<mark style="color:green;">**Edward Elric**</mark>.
 * Le "**Dôme de Boue**" d'<mark style="color:green;">**Aang**</mark>.
-* Les **zones** encore actives : "**Bourbier**" et "**Déluge**" de <mark style="color:yellow;">**Rudeus**</mark>, "**Toile Géante**" de <mark style="color:green;">**Spider-Man**</mark>, la **scène** de <mark style="color:green;">**Furina**</mark>, le **cercle de flammes** d'<mark style="color:green;">**Ace**</mark>, la "Tempête de Soie" de <mark style="color:purple;">Hornet</mark>, le "**Sceau d'Alchimie**" de <mark style="color:red;">**Father**</mark>.
+* Les **statues de pierre** de la "**Pétrification**" de <mark style="color:orange;">**Kratos**</mark> sont libérées sans subir de dégâts.
+* Le **crâne** du "**Gaster Blaster**" de <mark style="color:yellow;">**Sans**</mark>.
+* La **bombe** de la "**Première Bombe**" et le **char** de "**Sheer Heart Attack**" de <mark style="color:red;">**Kira**</mark>.
+* Les **zones** encore actives : "**Bourbier**" et "**Déluge**" de <mark style="color:yellow;">**Rudeus**</mark>, "**Toile Géante**" de <mark style="color:green;">**Spider-Man**</mark>, la **scène** de <mark style="color:green;">**Furina**</mark>, le **cercle de flammes** d'<mark style="color:green;">**Ace**</mark>, la "Tempête de Soie" de <mark style="color:purple;">Hornet</mark>, le "**Sceau d'Alchimie**" de <mark style="color:red;">**Father**</mark>, la "**ROOM**" de <mark style="color:yellow;">**Law**</mark>.
 * La "**Nuit Éternelle**" d'<mark style="color:orange;">**Herobrine**</mark> prend fin : le cycle **jour/nuit** reprend normalement.
 {% endhint %}
 
@@ -45,12 +50,13 @@ Lorsque <mark style="color:orange;">**Denji**</mark> élimine un joueur, le **r�
 * Les **cooldowns** augmentés par le "**Domaine de l'Ombre**" de <mark style="color:yellow;">**Kurumi**</mark> reviennent à la normale.
 * La **durabilité** d'armure réduite par le "**13e Mouvement**" d'<mark style="color:orange;">**Yoriichi**</mark> est restaurée.
 * Le lien du "**Festin Clandestin**" du <mark style="color:orange;">**Loup-Garou Blanc**</mark> est rompu.
+* Les malus du "**Cri**" de <mark style="color:yellow;">**Sieg**</mark> (**Lenteur**, **Faiblesse**, **Cécité**) disparaissent.
 {% endhint %}
 
 {% hint style="danger" %}
 → **EFFETS DE MORT ANNULÉS**
 
-* Les passifs permettant d'éviter la mort ne s'appliquent **pas** : "**Immortel**" de <mark style="color:red;">**Zelef**</mark>, "**Mille Fragments**" de <mark style="color:red;">**Muzan**</mark>, "**Yud Aleph**" de <mark style="color:yellow;">**Kurumi**</mark>, "**Survie**" de <mark style="color:red;">**Father**</mark>, "**Mort Debout**" de <mark style="color:orange;">**Barbe Blanche**</mark>.
+* Les passifs permettant d'éviter la mort ne s'appliquent **pas** : "**Immortel**" de <mark style="color:red;">**Zelef**</mark>, "**Mille Fragments**" de <mark style="color:red;">**Muzan**</mark>, "**Yud Aleph**" de <mark style="color:yellow;">**Kurumi**</mark>, "**Survie**" de <mark style="color:red;">**Father**</mark>, "**Mort Debout**" de <mark style="color:orange;">**Barbe Blanche**</mark>, le retour à la vie de "**The Almighty**" de <mark style="color:orange;">**Yhwach**</mark>, "**Chronokinésie**" de <mark style="color:orange;">**Kratos**</mark>, "**Sauvegarde**" de <mark style="color:yellow;">**Sans**</mark>.
 * <mark style="color:green;">**Yuji**</mark> n'obtient pas "**Dissection**" et "**Lacération**" si <mark style="color:orange;">**Sukuna**</mark> est éliminé par <mark style="color:orange;">**Denji**</mark>.
 * <mark style="color:purple;">**Hatsune Miku**</mark> et <mark style="color:purple;">**Kasane Teto**</mark> n'obtiennent pas leurs bonus de mort si leur partenaire est éliminée par <mark style="color:orange;">**Denji**</mark>.
 * Le porteur de la **Triforce de la Sagesse** et de l'émeraude **Jaune** ne reçoivent ni l'identité, ni les coordonnées.
@@ -59,4 +65,5 @@ Lorsque <mark style="color:orange;">**Denji**</mark> élimine un joueur, le **r�
 * <mark style="color:purple;">**Le Chevalier**</mark> et <mark style="color:purple;">**Hornet**</mark> n'obtiennent pas l'héritage de "Fratrie du Vide" si leur partenaire est éliminé par <mark style="color:orange;">**Denji**</mark>.
 * Si <mark style="color:green;">**Luke**</mark> est éliminé par <mark style="color:orange;">**Denji**</mark>, <mark style="color:red;">**Dark Vador**</mark> n'obtient pas de <mark style="color:red;">**Force I**</mark> et ne peut plus redevenir Anakin.
 * Si <mark style="color:green;">**Sonic**</mark> est éliminé par <mark style="color:orange;">**Denji**</mark>, <mark style="color:red;">**Robotnik**</mark> ne récupère pas la **7ème émeraude**.
+* <mark style="color:yellow;">**Sieg**</mark> ne gagne pas les **13 secondes** de "**Titan Bestial**" si l'élimination est réalisée par <mark style="color:orange;">**Denji**</mark>.
 {% endhint %}
